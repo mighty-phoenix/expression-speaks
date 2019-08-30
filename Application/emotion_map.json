@@ -1,0 +1,8 @@
+{ 
+    "smile": 0, 
+    "kiss": 1, 
+    "tongue": 2, 
+    "angry": 3,
+    "laugh": 4,
+    "surprised": 5 
+}

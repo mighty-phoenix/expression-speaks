@@ -1,0 +1,5 @@
+tqdm
+numpy
+tensorflow_gpu
+opencv_python
+tf-nightly-2.0-preview
